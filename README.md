@@ -1,6 +1,20 @@
-### Hi there 👋
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshlawlor)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joshlawlor)](https://git.io/streak-stats)
+###
+
+<div align="center" float="right">  
+
+
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshlawlor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joshlawlor&theme=dark)](https://git.io/streak-stats)
+
+<div align="center" float="right">  
+
+
+<div align="center" float="right">  
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+<div align="center" float="right">  
+  
 <!--
 **joshlawlor/joshlawlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
