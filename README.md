@@ -6,8 +6,7 @@
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshlawlor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshlawlor&theme=dark)](https://git.io/streak-stats)
 
-<div align="center" float="right">  
-
+</div>
 
 <div align="center" float="right">  
   
